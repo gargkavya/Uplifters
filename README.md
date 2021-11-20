@@ -22,4 +22,4 @@ Our teams approach the beggars by first offering food and eventually know their 
 
   
   
-![GitHub Logo](/screenshots/1. frontpage.png)
+![GitHub Logo](/screenshots/1frontpage.png)
