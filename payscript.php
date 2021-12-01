@@ -1,6 +1,7 @@
 <?php
 
  $apiKey="rzp_test_pwydrCEOgkT9lV";
+// $apiKey="rzp_live_pjSfqrNWVCLuS1";
 
 ?>
 
@@ -39,3 +40,33 @@
     });
 
     </script>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="images/icon.png">
+    <title>Uplifters</title>
+    
+</head>
+<body bgcolor="#1a535c">
+<div style="
+    width: 480px;
+    height: 480px;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+"><img src="images/thankyou.png"></div>
+     
+</body>
+</html>
+   
+
+
+
